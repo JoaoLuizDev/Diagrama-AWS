@@ -1,6 +1,6 @@
 <h1 align="center">Diagrama AWS</h1>
 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge" alt="Badge Concluído">
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 ---
 
